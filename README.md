@@ -1,7 +1,5 @@
 # Lars M Bek - Software Architect
-
-<p>Welcome to my GitHub profile</p>
-
+Welcome to my GitHub profile
 ## About me
 27 Year Old Software Architect and Developer from Denmark - living in Grenaa <br>
 I want to contribute to other peoples project and have a personality with lots of goodwill, i'm not a money hungry person - i'm a happy person who is living my life in a way that is good for the climate and my own pocket - I refuse to get a car and would rather save the money and stay local. <br>
@@ -12,9 +10,14 @@ And i'm probably the least salary interested guy you will ever meet
 Of all programming languages i'm best at Go(lang) and prefer it to any language because of it's simplicity and good scaling. <br>
 I have specialised in Webbased IT Systems, where i build executables with manifests, icon and code signing. I both deploy software as a service (technically) and do SaaS as business. I: program, test, build and deploy software for Computers, Mobiles and the Cloud. People have a tendency to underestimate my skills ;-)
 
+## **GitHub Statistics**
+![Lars M Bek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nineninefive&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs&line_height=37&cache_seconds=14400)
+</span>
+<span align="right">
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nineninefive&theme=dracula&stroke=00E6FE)
+</span>
 
 ## Main Languages, Tools & Services (professional):
-
 * Go
 * JavaScript +(HTML&CSS)
 * IntelliJ Ultimate
@@ -26,14 +29,6 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 * NodeJS & Three.js
 * MySQL & Sqlite
 * Visual Code Studio
-
-
-## **GitHub Statistics**
-![Lars M Bek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nineninefive&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs&line_height=37&cache_seconds=14400)
-</span>
-<span align="right">
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nineninefive&theme=dracula&stroke=00E6FE)
-</span>
 
 ## Social Networks
 <a href="https://discord.gg/6HJk5bsnY8">Discord (Beksoft)</a>
