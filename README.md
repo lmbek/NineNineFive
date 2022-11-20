@@ -6,7 +6,7 @@
 27 Year Old Software Architect and Developer from Denmark - living in Grenaa <br>
 I want to contribute to other peoples project and have a personality with lots of goodwill, i'm not a money hungry person - i'm a happy person who is living my life in a way that is good for the climate and my own pocket - I refuse to get a car and would rather save the money and stay local. <br>
 Feel free to contact me and work together with me, i'm a very unusual dane. But please don't sound like a spambot, seem a bit personal and commited so i don't just skip your message (because spambots) <br><br>
-- And i'm probably the least salary interested guy you will ever meet
+And i'm probably the least salary interested guy you will ever meet
 
 ## Specialities
 Of all programming languages i'm best at Go(lang) and prefer it to any language because of it's simplicity and good scaling. <br>
