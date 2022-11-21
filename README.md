@@ -1,5 +1,5 @@
 # Lars M Bek - Software Architect
-Welcome to my GitHub profile
+Welcome to my GitHub profile, you can connect with me on <a href="https://www.linkedin.com/in/lmbek/" color="white">LinkedIn</a> or <a href="https://discord.gg/6HJk5bsnY8">Discord</a> if you are a programmer who want to collaborate
 ## About me
 27 Year Old Software Architect and Developer from Denmark - living in Grenaa <br>
 I want to contribute to other peoples project and im even willing to help for free on occasions. I have a personality with lots of goodwill, i'm not a money hungry person - i'm a happy person who is living my life in a way that is good for the climate and my own pocket - I refuse to get a car and would rather save the money and stay local. <br><br>
