@@ -11,6 +11,9 @@ Of all programming languages i'm best at Go(lang) and prefer it to any language 
 I have specialised in Webbased IT Systems, where i build executables with manifests, icon and code signing. I both deploy software as a service (technically) and do SaaS as business. I: program, test, build and deploy software for Computers, Mobiles and the Cloud. People have a tendency to underestimate my skills ;-) <br>
 The software i build is typically made with Go as backend with http (file)server and an API, where the frontend is build with vanilla html/css/js with some awesome technology i made myself for pageChanging, loading, maintaining and deploying software.
 
+## The Structure Of My Repositories
+<img alt="GitHub Structure Diagram" src="https://beksoft.dk/images/shares/githubReleaseManagement.png" width="100%">
+
 ## **GitHub Statistics**
 ![Lars M Bek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nineninefive&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs&line_height=37&cache_seconds=14400)
 </span>
