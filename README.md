@@ -38,3 +38,7 @@ The software i build is typically made with Go as backend with http (file)server
 <a href="https://discord.gg/6HJk5bsnY8">Discord (Beksoft)</a>
 <br>
 <a href="https://www.linkedin.com/in/lmbek/" color="white">LinkedIn (Lars M Bek)</a>
+
+## Websites
+<a href="https://lmbek.dk">LMBek.dk</a>
+<a href="https://beksoft.dk">Beksoft.dk</a>
