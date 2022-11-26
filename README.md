@@ -12,7 +12,7 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 The software i build is typically made with Go as backend with http (file)server and an API, where the frontend is build with vanilla html/css/js with some awesome technology i made myself for pageChanging, loading, maintaining and deploying software.
 
 ## The Structure Of My Repositories
-<img alt="GitHub Structure Diagram" src="https://beksoft.dk/images/shares/howToGitHubDarkBG.png" width="100%">
+<img alt="GitHub Structure Diagram" src="https://beksoft.dk/images/shares/howToGitHubDarkBG2.png" width="100%">
 
 ## **GitHub Statistics**
 ![Lars M Bek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nineninefive&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs&line_height=37&cache_seconds=14400)
