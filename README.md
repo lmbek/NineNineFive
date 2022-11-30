@@ -24,6 +24,20 @@ The software i build is typically made with Go as backend with http (file)server
 * MySQL & Sqlite
 * Visual Code Studio
 
+## **GitHub Statistics**
+![Lars M Bek's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NineNineFive&theme=radical&private=true)
+
+![Lars M Bek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nineninefive&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs&line_height=37&cache_seconds=14400)
+</span>
+<span align="right">
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nineninefive&theme=dracula&stroke=00E6FE)
+</span>
+
+<!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=petya-&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=petya-&langs_count=5&theme=tokyonight)]()
+-->
+
+
 ## Social Networks
 <a href="https://discord.gg/6HJk5bsnY8">Discord (Beksoft)</a> <br>
 <a href="https://www.linkedin.com/in/lmbek/" color="white">LinkedIn (Lars M Bek)</a>
@@ -41,16 +55,3 @@ The repositories should also follow the stucture in the following section.
 
 ## The Structure Of My Repositories
 <img alt="GitHub Structure Diagram" src="https://beksoft.dk/images/shares/howToGitHubDarkBG2.png" width="100%">
-
-## **GitHub Statistics**
-![Lars M Bek's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NineNineFive&theme=radical&private=true)
-
-![Lars M Bek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nineninefive&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs&line_height=37&cache_seconds=14400)
-</span>
-<span align="right">
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nineninefive&theme=dracula&stroke=00E6FE)
-</span>
-
-<!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=petya-&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=petya-&langs_count=5&theme=tokyonight)]()
--->
