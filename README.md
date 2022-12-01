@@ -52,7 +52,7 @@ The software i build is typically made with Go as backend with http (file)server
 ## Contributing
 From the 1st of january 2023 the my repositories should follow the following two guidelines:
 * Git Commit Messages <a href="https://www.conventionalcommits.org/en/v1.0.0/#specification">Specification</a>
-* Folder and File <a href="https://developers.google.com/style/filenames">naming and structure</a>
+* Folder and File <a href="https://developers.google.com/style/filenames">naming and structure</a> (only folders and files inside repositories)
 However, if you want to contribute, i will modify the changed to fit the guidelines, so feel free to contribute.
 The repositories should also follow the stucture in the following section.
 
