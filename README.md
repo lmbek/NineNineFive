@@ -11,6 +11,8 @@ Of all programming languages i'm best at Go(lang) and prefer it to any language 
 I have specialised in Webbased IT Systems, where i build executables with manifests, icon and code signing. I both deploy software as a service (technically) and do SaaS as business. I: program, test, build and deploy software for Computers, Mobiles and the Cloud. People have a tendency to underestimate my skills ;-) <br>
 The software i build is typically made with Go as backend with http (file)server and an API, where the frontend is build with vanilla html/css/js with some awesome technology i made myself for pageChanging, loading, maintaining and deploying software.
 
+Developing software that is reusable, has good optimisation, is easy to maintain and switch out, and consumes less power by not using as much hardware ressources - is good for the climate. I aim to make software that helps the planet move away from heavy software (old wordpress from 2003, very inefficient etc), and move to the right technologies. Software developers are responsible for climate change too!
+
 ## Main Languages, Tools & Services (professional):
 * Go
 * JavaScript +(HTML&CSS)
