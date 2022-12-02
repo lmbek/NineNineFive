@@ -4,15 +4,15 @@ Welcome to my GitHub profile, you can connect with me on <a href="https://www.li
 
 ## About me
 27 Year Old Software Architect and Developer from Denmark - living in Grenaa <br>
-I want to contribute to other peoples project and im even willing to help for free on occasions. I have a personality with lots of goodwill, i'm not a money hungry person - i'm a happy person who is living my life in a way that is good for the climate and my own pocket - I refuse to get a car and would rather save the money and stay local. <br><br>
-Feel free to contact me and work together with me, i'm a very unusual dane. But please don't sound like a spambot, seem a bit personal and commited so i don't just skip your message (because spambots) <br><br>
+I want to contribute to other peoples project and im even willing to help for free on occasions.
+
 I'm probably the least salary interested guy you will ever meet
 
 Developing software that is reusable, has good optimisation, is easy to maintain and switch out, and consumes less power by not using as much hardware ressources - is good for the climate. I aim to make software that helps the planet move away from heavy software (old wordpress from 2003, very inefficient etc), and move to the right technologies. Software developers are responsible for climate change too!
 
 ## Specialities
 Of all programming languages i'm best at Go(lang) and prefer it to any language because of it's simplicity and good scaling. <br>
-I have specialised in Webbased IT Systems, where i build executables with manifests, icon and code signing. I both deploy software as a service (technically) and do SaaS as business. I: program, test, build and deploy software for Computers, Mobiles and the Cloud. People have a tendency to underestimate my skills ;-) <br>
+I have specialised in Webbased IT Systems, where i build executables with manifests, icon and code signing. I both deploy software as a service (technically) and do SaaS as business. I: program, test, build and deploy software for Computers, Mobiles and the Cloud. <br>
 The software i build is typically made with Go as backend with http (file)server and an API, where the frontend is build with vanilla html/css/js with some awesome technology i made myself for pageChanging, loading, maintaining and deploying software.
 
 
@@ -53,7 +53,7 @@ The software i build is typically made with Go as backend with http (file)server
 
 ## Contributing
 From the 1st of january 2023 the my repositories should follow the following two guidelines:
-* Git Commit Messages <a href="https://www.conventionalcommits.org/en/v1.0.0/#specification">Specification</a>
+* Git Commit Messages <a href="https://www.conventionalcommits.org/en/v1.0.0/#specification">Specification</a>. However i will write the filename instead of feat or fix, as i see no reason to push new features without having them tested first.
 * Folder and File <a href="https://developers.google.com/style/filenames">naming and structure</a> (only folders and files inside repositories)
 However, if you want to contribute, i will modify the changed to fit the guidelines, so feel free to contribute.
 The repositories should also follow the stucture in the following section.
