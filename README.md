@@ -25,7 +25,7 @@ The software i build is typically made with Go as backend with http (file)server
 
 ## Unique Specialities:
 * WebVR (2019 tech) - now deprecated
-* WebXR (2022 tech) - Reworking ChessVR project and making new projects in WebXR in end of 2022 and forward
+* WebXR (2022 tech) - Reworking ChessVR project and making new projects with WebXR in end of 2022 and forward
 
 I'm one of the only persons in Denmark that actively do VR in the browser and on native (with browser tech) on a professional level.
 
