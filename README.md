@@ -40,7 +40,7 @@ I don't use all kind of frameworks, some kind of frameworks like React, Angular 
 I prefer projects to use low ressources and have good maintainability, the existing popular frameworks don't even perform close to an A.
 Also the time spent with a framework usually looks like this <br><br>
 <img alt="Chart about framework efficiency" style="min-width: 250px; width: 60%" src="https://threedots.tech/post/best-go-framework/chart.jpg"> <br>
-(image taken from an article by Robert Laszczak, 29 nov 2022)
+(image taken from an article by Robert Laszczak, 29 nov 2022: https://threedots.tech/post/best-go-framework/)
 <br>
 
 ## **GitHub Statistics**
