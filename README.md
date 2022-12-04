@@ -57,8 +57,8 @@ I'm one of the only persons in Denmark that actively do VR in the browser and on
 <a href="https://lmbek.dk">LMBek.dk</a> <br>
 <a href="https://beksoft.dk">Beksoft.dk</a>
 
-## Contributing
-Feel free to contribute to the repositories that are public
-
 ## The Structure Of My Repositories
 <img alt="GitHub Structure Diagram" src="https://beksoft.dk/images/shares/howToGitHubDarkBG2.png" width="100%">
+
+## Contributing
+Feel free to contribute to the repositories that are public
