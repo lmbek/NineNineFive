@@ -35,9 +35,16 @@ I'm one of the only persons in Denmark that actively do VR in the browser and on
 * MySQL & Sqlite
 * Visual Code Studio
 
+## Why i don't use frameworks for x,y,z?
+I don't use all kind of frameworks, some kind of frameworks like React, Angular or CMS like Wordpress has many cons that people don't take into consideration. Like how much memory is used, how is the arcitecture made - It is Site Generated or server-side rendered?
+I prefer projects to use low ressources and have good maintainability, the existing popular frameworks don't even perform close to an A.
+Also the time spent with a framework usually looks like this (taken from an article by Robert Laszczak, 29 nov 2022) <br><br>
+<img style="min-width: 250px; width: 60%" src="https://threedots.tech/post/best-go-framework/chart.jpg">
+<br>
+
 ## **GitHub Statistics**
-![Lars M Bek's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NineNineFive&theme=radical&count_private=true&showicons=true)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nineninefive&theme=dracula&exclude_repo=BachelorGame,PathfindingProject,ThiefGame)]()
+![Lars M Bek's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NineNineFive&theme=radical&count_private=true&showicons=true)
 ![Lars M Bek's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nineninefive&count_private=true&show_icons=true&theme=dracula&line_height=25&cache_seconds=300)
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nineninefive&theme=dracula&stroke=00E6FE)
 <!--<p align="center"<a href="#"><img alt="Lars M Bek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NineNineFive&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true" /></a></p>-->
