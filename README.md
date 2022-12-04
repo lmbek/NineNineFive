@@ -58,11 +58,7 @@ I'm one of the only persons in Denmark that actively do VR in the browser and on
 <a href="https://beksoft.dk">Beksoft.dk</a>
 
 ## Contributing
-From the 1st of january 2023 the my repositories should follow the following two guidelines:
-* Git Commit Messages <a href="https://www.conventionalcommits.org/en/v1.0.0/#specification">Specification</a>. However i will write the filename instead of feat or fix, as i see no reason to push new features without having them tested first.
-* Folder and File <a href="https://developers.google.com/style/filenames">naming and structure</a> (only folders and files inside repositories)
-However, if you want to contribute, i will modify the changed to fit the guidelines, so feel free to contribute.
-The repositories should also follow the stucture in the following section.
+Feel free to contribute to the repositories that are public
 
 ## The Structure Of My Repositories
 <img alt="GitHub Structure Diagram" src="https://beksoft.dk/images/shares/howToGitHubDarkBG2.png" width="100%">
