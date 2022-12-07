@@ -8,8 +8,6 @@ Check out the GoLocalChromeFramework project i put up, if you have any name sugg
 27 Year Old Software Architect and Developer from Denmark - living in Grenaa <br>
 I want to contribute to other peoples project and im even willing to help for free on occasions.
 
-I'm probably the least salary interested guy you will ever meet
-
 Developing software that is reusable, has good optimisation, is easy to maintain and switch out, and consumes less power by not using as much hardware ressources - is good for the climate. I aim to make software that helps the planet move away from heavy software (old wordpress from 2003, very inefficient etc), and move to the right technologies. Software developers are responsible for climate change too!
 
 ## Specialities
