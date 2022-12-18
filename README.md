@@ -44,7 +44,7 @@ Also the time spent with a framework usually looks like this <br><br>
 <br>
 
 ## **GitHub Statistics**
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nineninefive&theme=dracula&exclude_repo=BachelorGame,PathfindingProject,ThiefGame)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nineninefive&theme=dracula&exclude_repo=PathfindingProject)]()
 ![Lars M Bek's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NineNineFive&theme=radical&count_private=true&showicons=true)
 ![Lars M Bek's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nineninefive&count_private=true&show_icons=true&theme=dracula&line_height=25&cache_seconds=300)
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nineninefive&theme=dracula&stroke=00E6FE)
