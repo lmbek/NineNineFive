@@ -2,7 +2,7 @@
 Welcome to my GitHub profile, you can connect with me on <a href="https://www.linkedin.com/in/lmbek/" color="white">LinkedIn</a> or <a href="https://discord.gg/6HJk5bsnY8">Discord</a>, if you are a programmer who want to collaborate
 
 ## Recent updates
-Check out the <a href="https://github.com/NineNineFive/go-local-web-gui">go-local-web-gui (GOLW)</a> and <a href="https://github.com/NineNineFive/go-local-web-example">go-local-web-example (GOLW example)</a>project i put up, if you have any name suggestions for the project, please let me know by leaving an issue or sending me a message on LinkedIn.
+Check out the <a href="https://github.com/NineNineFive/go-local-web-gui">go-local-web-gui (GOLW)</a> and <a href="https://github.com/NineNineFive/go-local-web-example">go-local-web-example (GOLW example)</a> repositories (developed by me), if you have any name suggestions for the project, please let me know by leaving an issue or sending me a message on LinkedIn.
 
 ## About me
 27 Year Old Software Architect and Developer from Denmark - living in Grenaa <br>
