@@ -36,7 +36,7 @@ I'm one of the only persons in Denmark that actively do VR in the browser and on
 * Visual Code Studio
 
 ## Why i don't use frameworks for x,y,z?
-I don't use all kind of frameworks, some kind of frameworks like React, Angular or CMS like Wordpress has many cons that people don't take into consideration. Like how much memory is used, how is the arcitecture made - Is it Site Generated or server-side rendered? Is the SEO guidelines followed - can they be improved? Is seperation of concerns followed?
+I do use frameworks, however i don't use all kind of frameworks, some kind of frameworks like React, Angular or CMS like Wordpress has many cons that people don't take into consideration. Like how much memory is used, how is the arcitecture made - Is it Site Generated or server-side rendered? Is the SEO guidelines followed - can they be improved? Is seperation of concerns followed?
 I prefer projects to use low ressources and have good maintainability, the existing popular frameworks don't even perform close to an A.
 Also the time spent with a framework usually looks like this <br><br>
 <img alt="Chart about framework efficiency" style="min-width: 250px; width: 60%" src="https://threedots.tech/post/best-go-framework/chart.jpg"> <br>
