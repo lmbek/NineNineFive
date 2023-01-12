@@ -23,10 +23,6 @@ The software i build is typically made with Go as backend with http (file)server
 * Hetzner Cloud (linux servers)
 * Go Frameworks
 
-## Unique Specialities:
-* WebVR (2019 tech) - now deprecated
-* WebXR (2022 tech) - Reworking ChessVR project and making new projects with WebXR in 2023
-
 ## Other Languages and Tools:
 * C#, C++, Java, PHP
 * NodeJS & Three.js
