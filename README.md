@@ -6,7 +6,8 @@ Check out the <a href="https://github.com/NineNineFive/go-local-web-gui">go-loca
 
 ## About me
 27 Year Old Software Architect and Developer from Denmark - living in Grenaa <br>
-I want to contribute to other peoples project and im even willing to help for free on occasions.
+Im the CEO of Beksoft ApS, a software development startup that focuses on webbased technology. We make products on terms of software and also sell IT Consultancy Services. <br>
+Also I want to contribute to other peoples project and im even willing to help for free on occasions. Please let me know if you need assistance.
 
 Developing software that is reusable, has good optimisation, is easy to maintain and switch out, and consumes less power by not using as much hardware ressources - is good for the climate. I aim to make software that helps the planet move away from heavy software (old wordpress from 2003, very inefficient etc), and move to the right technologies. Software developers are responsible for climate change too!
 
