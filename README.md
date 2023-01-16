@@ -21,6 +21,7 @@ The software i build is typically made with Go as backend with http (file)server
 * Go
 * JavaScript +(HTML&CSS)
 * C, C++
+* MySQL & Sqlite
 * IntelliJ Ultimate
 * Hetzner Cloud (linux servers)
 * Go Frameworks
@@ -28,7 +29,6 @@ The software i build is typically made with Go as backend with http (file)server
 ## Other Languages and Tools:
 * C#, Java, PHP
 * NodeJS & Three.js
-* MySQL & Sqlite
 * Visual Code Studio
 * DigitalOcean and other VPS & Cloud providers
 
