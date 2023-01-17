@@ -13,7 +13,7 @@ Developing software that is reusable, has good optimisation, is easy to maintain
 
 ## Specialities
 Of all programming languages i'm best at Go(lang) and prefer it to any language because of it's simplicity and good scaling. <br>
-I have specialised in Webbased IT Systems, where i build executables with manifests, icon and code signing. I both deploy software as a service (technically) and do SaaS as business. I: program, test, build and deploy software for Computers, Mobiles and the Cloud. <br>
+I have specialised in Webbased IT Systems, where i build executables with manifests, icon and code signing. I both deploy software as a service (technically) and do SaaS as business. I: analyse requirements, design, program/develop, test, build and deploy software for Computers, Mobiles and the Cloud. <br>
 The software i build is typically made with Go as backend with http (file)server and an API, where the frontend is build with vanilla html/css/js with some awesome technology i made myself for pageChanging, loading, maintaining and deploying software.
 
 
