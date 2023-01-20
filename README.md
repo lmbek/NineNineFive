@@ -5,7 +5,7 @@ Welcome to my GitHub profile, you can connect with me on <a href="https://www.li
 Check out the <a href="https://github.com/NineNineFive/go-local-web-gui">go-local-web-gui (GOLW GUI) v0.4.13</a> and <a href="https://github.com/NineNineFive/go-local-web-example">go-local-web-example (GOLW Example) v0.4.13</a> repositories (developed by me), if you have any name suggestions for the project, please let me know by leaving an issue or sending me a message on LinkedIn.
 
 ## About me
-27 Year Old Software Architect and Developer from Denmark - living in Grenaa <br>
+28 Year Old Software Architect and Developer from Denmark - living in Grenaa <br>
 Im the CEO of Beksoft ApS, a software development startup that focuses on webbased technology. We make products on terms of software and also sell IT Consultancy Services. <br>
 Also I want to contribute to other peoples project and im even willing to help for free on occasions. Please let me know if you need assistance.
 
