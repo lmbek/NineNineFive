@@ -9,8 +9,6 @@ Check out the <a href="https://github.com/NineNineFive/go-local-web-gui">go-loca
 Im the CEO of Beksoft ApS, a software development startup that focuses on webbased technology. We make products on terms of software and also sell IT Consultancy Services. <br>
 Also I want to contribute to other peoples project and im even willing to help for free on occasions. Please let me know if you need assistance.
 
-Developing software that is reusable, has good optimisation, is easy to maintain and switch out, and consumes less power by not using as much hardware ressources - is good for the climate. I aim to make software that helps the planet move away from heavy software (old wordpress from 2003, very inefficient etc), and move to the right technologies. Software developers are responsible for climate change too!
-
 ## Specialities
 Of all programming languages i'm best at Go(lang) and prefer it to any language because of it's simplicity and good scaling. <br>
 I have specialised in Webbased IT Systems, where i build executables with manifests, icon and code signing. I both deploy software as a service (technically) and do SaaS as business. I: analyse requirements, design, program/develop, test, build and deploy software for Computers, Mobiles and the Cloud. <br>
