@@ -10,7 +10,7 @@ Im the CEO of Beksoft ApS, a software development startup that focuses on webbas
 Also I want to contribute to other peoples project and im even willing to help for free on occasions. Please let me know if you need assistance.
 
 ## Specialities
-Of all programming languages i'm best at Go(lang) and prefer it to any language because of it's simplicity and good scaling. <br>
+I prefer developing in Go because of it's simplicity and good scaling. It's a good general programming language, that can be used in many different domains. <br>
 I have specialised in Webbased IT Systems, where i build executables with manifests, icon and code signing. I both deploy software as a service (technically) and do SaaS as business. I: analyse requirements, design, program/develop, test, build and deploy software for Computers, Mobiles and the Cloud. <br>
 The software i build is typically made with Go as backend with http (file)server and an API, where the frontend is build with vanilla html/css/js with some awesome technology i made myself for pageChanging, loading, maintaining and deploying software.
 
