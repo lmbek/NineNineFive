@@ -51,7 +51,6 @@ The software i build is typically made with Go as backend with http (file)server
 <a href="https://www.linkedin.com/in/lmbek/" color="white">LinkedIn (Lars M Bek)</a>
 
 ## Websites
-<a href="https://lmbek.dk">LMBek.dk</a> <br>
 <a href="https://beksoft.dk">Beksoft.dk</a>
 
 ## The Structure Of My Repositories
