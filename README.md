@@ -9,9 +9,7 @@ Check out the <a href="https://github.com/NineNineFive/go-local-web-gui">go-loca
 
 ## Specialities
 I prefer developing in Go because of it's simplicity and good scaling. It's a good general programming language, that can be used in many different domains. <br>
-I have specialised in Webbased IT Systems, where i build executables with manifests, icon and code signing. I both deploy software as a service (technically) and do SaaS as business. I: analyse requirements, design, program/develop, test, build and deploy software for Computers, Mobiles and the Cloud. <br>
-The software i build is typically made with Go as backend with http (file)server and an API, where the frontend is build with vanilla html/css/js with some awesome technology i made myself for pageChanging, loading, maintaining and deploying software.
-
+I have specialised in Webbased IT Systems, where i build executables with manifests, icon and code signing. I: analyse requirements, design, program/develop, test, build and deploy software for Computers, Mobiles and the Cloud. <br>
 
 ## Main Languages, Tools & Services (professional):
 * Go
@@ -42,13 +40,12 @@ The software i build is typically made with Go as backend with http (file)server
 
 <br>
 
-
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nineninefive&count_private=true&theme=dracula&showicons=true)]()
 -->
 ## Social Networks
-<a href="https://discord.gg/6HJk5bsnY8">Discord (Beksoft)</a> <br>
 <a href="https://www.linkedin.com/in/lmbek/" color="white">LinkedIn (Lars M Bek)</a>
+<a href="https://discord.gg/6HJk5bsnY8">Discord (Beksoft)</a> <br>
 
 ## Websites
 <a href="https://beksoft.dk">Beksoft.dk</a>
