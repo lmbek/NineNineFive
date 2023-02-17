@@ -23,7 +23,7 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 
 ## Other Languages and Tools:
 * C#, Java, PHP
-* NodeJS & Three.js
+* Three.js and javascript frameworks
 * Apache & Nginx
 * Visual Code Studio
 * DigitalOcean and other VPS & Cloud providers
