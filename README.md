@@ -44,7 +44,7 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nineninefive&count_private=true&theme=dracula&showicons=true)]()
 -->
 ## Social Networks
-<a href="https://www.linkedin.com/in/lmbek/" color="white">LinkedIn (Lars M Bek)</a>
+<a href="https://www.linkedin.com/in/lmbek/" color="white">LinkedIn (Lars M Bek)</a> <br>
 <a href="https://discord.gg/6HJk5bsnY8">Discord (Beksoft)</a> <br>
 
 ## Websites
