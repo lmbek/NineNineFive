@@ -33,6 +33,10 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 ## **GitHub Statistics**
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nineninefive&theme=dracula&exclude_repo=ThiefGame,PathfindingProject)]()-->
 ![Lars M Bek's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmbek&theme=radical&count_private=true&showicons=true)
+<br>
+![Lars M Bek's Commit Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lmbek&theme=radical)
+![Lars M Bek's Repos Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmbek&theme=radical)
+<br>
 <!--![Lars M Bek's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nineninefive&count_private=true&show_icons=true&theme=dracula&line_height=25&cache_seconds=300)-->
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lmbek&theme=dracula&stroke=00E6FE)
 <!--<p align="center"<a href="#"><img alt="Lars M Bek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NineNineFive&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true" /></a></p>-->
