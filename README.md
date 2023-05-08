@@ -18,7 +18,7 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 * MySQL & Sqlite
 * IntelliJ Ultimate
 * Hetzner Cloud (linux servers)
-* GitHub Actions / Github Automations
+* GitHub Actions / GitHub Automations
 * Go http/net
 * Go frameworks
 
@@ -27,7 +27,7 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 * Three.js and javascript frameworks
 * Apache & Nginx
 * Visual Code Studio
-* DigitalOcean and other VPS & Cloud providers
+* DigitalOcean and other VPS & Cloud providers, and docker
 
 <br>
 
