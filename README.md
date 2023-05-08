@@ -18,6 +18,7 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 * MySQL & Sqlite
 * IntelliJ Ultimate
 * Hetzner Cloud (linux servers)
+* GitHub Actions / Github Automations
 * Go http/net
 * Go frameworks
 
