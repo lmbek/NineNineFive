@@ -5,7 +5,7 @@ Welcome to my GitHub profile, you can connect with me on <a href="https://www.li
 Check out the <a href="https://github.com/lmbek/gobek">gobek v0.6.2</a> and <a href="https://github.com/lmbek/gobek-example">gobek-example v0.6.2</a> repositories (developed by me), if you have any name suggestions for the project, please let me know by leaving an issue or sending me a message on LinkedIn.
 
 ## About me
-28 Year Old Software Architect and Developer from Denmark living in Grenaa. Im the CEO of Beksoft ApS, a software development startup that focuses on webbased technology. We make products on terms of software and also sell IT Consultancy Services. <br> I want to contribute to other peoples project and im even willing to help for free on occasions, please let me know if you need assistance.
+28 Year Old Software Architect and Developer from Denmark living in Grenaa. Im the CEO of Beksoft ApS, a software development startup that focuses on webbased technology. We make products on terms of software and also do IT Consultancy Services. <br> I want to contribute to other peoples project and im even willing to help for free on occasions, please let me know if you need assistance.
 
 ## Specialities
 I prefer developing in Go because of it's simplicity and good scaling. It's a good general programming language, that can be used in many different domains. <br>
