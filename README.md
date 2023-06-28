@@ -19,8 +19,6 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 * IntelliJ Ultimate
 * Hetzner Cloud (linux servers)
 * GitHub Actions / GitHub Automations
-* Go http/net
-* Go frameworks
 
 ## Other Languages and Tools:
 * C#, Java, PHP
