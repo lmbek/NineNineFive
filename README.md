@@ -2,7 +2,7 @@
 Welcome to my GitHub profile, you can connect with me on <a href="https://www.linkedin.com/in/lmbek/" target="_blank" color="white">LinkedIn</a>, <a href="https://lmbek.dk" target="_blank">Lmbek.dk</a> or <a href="https://discord.gg/6HJk5bsnY8" target="_blank">Discord</a>, if you are a programmer who want to collaborate.
 
 ## Recent updates
-Check out the <a href="https://github.com/lmbek/gobek">gobek v0.6.2</a> and <a href="https://github.com/lmbek/gobek-example">gobek-example v0.6.2</a> repositories (developed by me), if you have any name suggestions for the project, please let me know by leaving an issue or sending me a message on LinkedIn.
+Check out the <a href="https://github.com/lmbek/gobek">gobek v0.6.3</a> and <a href="https://github.com/lmbek/gobek-example">gobek-example v0.6.3</a> repositories (developed by me), if you have any name suggestions for the project, please let me know by leaving an issue or sending me a message on LinkedIn.
 
 ## About me
 28 Year Old Software Architect and Developer from Denmark living in Grenaa. Im the CEO of Beksoft ApS, a software development startup that focuses on webbased technology. We make products on terms of software and also do IT Consultancy Services. <br> I want to contribute to other peoples project and im even willing to help for free on occasions, please let me know if you need assistance.
