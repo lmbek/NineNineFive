@@ -51,8 +51,8 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 <a href="https://discord.gg/6HJk5bsnY8">Discord (Beksoft)</a> <br>
 
 ## Websites
-<a href="https://beksoft.dk">Beksoft.dk</a>
-<a href="https://lmbek.dk">Lmbek.dk</a>
+<a href="https://beksoft.dk">Beksoft.dk</a> <br>
+<a href="https://lmbek.dk">Lmbek.dk</a> <br>
 
 ## The Structure Of My Repositories
 <img alt="GitHub Structure Diagram" src="https://beksoft.dk/images/shares/howToGitHubDarkBG2.png" width="100%">
