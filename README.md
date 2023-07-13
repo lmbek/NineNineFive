@@ -2,7 +2,9 @@
 Welcome to my GitHub profile, you can connect with me on <a href="https://www.linkedin.com/in/lmbek/" target="_blank" color="white">LinkedIn</a>, <a href="https://lmbek.dk" target="_blank">Lmbek.dk</a> or Discord (username: lmbek), if you are a programmer who want to collaborate.
 
 ## Recent updates
-Check out the: <br><a href="https://github.com/lmbek/gobek">gobek v0.7.0</a>,<br> <a href="https://github.com/lmbek/gobek-example">gobek-example v0.7.0</a><br> <a href="https://github.com/lmbek/gobek-sqlite-example">gobek-sqlite-example v0.7.0</a><br> repositories, this is a project i have developed to allow for lightweight web applications that uses Go locally with native features. <br>
+Check out my favorite open-source projects: <br>
+### Gobek
+<a href="https://github.com/lmbek/gobek">gobek v0.7.0</a><br> <a href="https://github.com/lmbek/gobek-example">gobek-example v0.7.0</a><br> <a href="https://github.com/lmbek/gobek-sqlite-example">gobek-sqlite-example v0.7.0</a><br> repositories, this is a project i have developed to allow for lightweight web applications that uses Go locally with native features. <br>
 If you have any name suggestions for the project, please let me know by leaving an issue or sending me a message on LinkedIn.
 
 ## About me
