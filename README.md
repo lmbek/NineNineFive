@@ -4,8 +4,8 @@ Welcome to my GitHub profile, you can connect with me on <a href="https://www.li
 ## Recent updates
 Check out my favorite open-source projects: <br>
 ### Gobek
-<a href="https://github.com/lmbek/gobek">gobek v0.7.0</a><br> <a href="https://github.com/lmbek/gobek-example">gobek-example v0.7.0</a><br> <a href="https://github.com/lmbek/gobek-sqlite-example">gobek-sqlite-example v0.7.0</a><br> repositories, this is a project i have developed to allow for lightweight web applications that uses Go locally with native features. <br>
-If you have any name suggestions for the project, please let me know by leaving an issue or sending me a message on LinkedIn.
+<a href="https://github.com/lmbek/gobek">gobek v0.7.0</a><br> <a href="https://github.com/lmbek/gobek-example">gobek-example v0.7.0</a><br> <a href="https://github.com/lmbek/gobek-sqlite-example">gobek-sqlite-example v0.7.0</a><br><br>Gobek is a project i have developed to allow for lightweight web applications that uses Go locally with native features. Think of it like electron - just with minimal dependencies <br>
+If you have any name suggestions for the project, please let me know by leaving an issue or sending me a message on LinkedIn. 
 
 ## About me
 28 Year Old Software Architect and Developer from Denmark living in Grenaa. Im the CEO of Beksoft ApS, a software development startup that focuses on webbased technology. We make products on terms of software and also do IT Consultancy Services. <br> I want to contribute to other peoples project and im even willing to help for free on occasions, please let me know if you need assistance.
