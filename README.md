@@ -8,7 +8,7 @@ Check out my favorite open-source projects: <br>
 If you have any name suggestions for the project, please let me know by leaving an issue or sending me a message on LinkedIn. 
 
 ## About me
-Software Architect from Denmark living in Grenaa. Im the CEO of Beksoft ApS, a software development startup that focuses on webbased technology. We make products on terms of software and also do IT Consultancy Services. <br> I want to contribute to other peoples project and im even willing to help for free on occasions, please let me know if you need assistance.
+Software Architect from Denmark living in Grenaa. Im the CEO of Beksoft ApS a company that focuses on Software Architecture and full scale software development from requirement specification to implementation, testing, releasing and maintaining. We mostly focus on webbased technology, native technology, cross platform and cloud services.
 
 ## Specialities
 I prefer developing in Go because of it's simplicity and good scaling. It's a good general programming language, that can be used in many different domains. <br>
