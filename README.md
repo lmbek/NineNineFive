@@ -8,7 +8,7 @@ Check out my favorite open-source projects: <br>
 If you have any name suggestions for the project, please let me know by leaving an issue or sending me a message on LinkedIn. 
 
 ## About me
-28 Year Old Software Architect and Developer from Denmark living in Grenaa. Im the CEO of Beksoft ApS, a software development startup that focuses on webbased technology. We make products on terms of software and also do IT Consultancy Services. <br> I want to contribute to other peoples project and im even willing to help for free on occasions, please let me know if you need assistance.
+Software Architect from Denmark living in Grenaa. Im the CEO of Beksoft ApS, a software development startup that focuses on webbased technology. We make products on terms of software and also do IT Consultancy Services. <br> I want to contribute to other peoples project and im even willing to help for free on occasions, please let me know if you need assistance.
 
 ## Specialities
 I prefer developing in Go because of it's simplicity and good scaling. It's a good general programming language, that can be used in many different domains. <br>
@@ -25,6 +25,7 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 
 ## Other Languages and Tools:
 * C#, Java, PHP
+* SCSS, NPM, Node
 * Three.js and javascript frameworks
 * Apache & Nginx
 * Visual Code Studio
@@ -56,9 +57,10 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 ## Websites
 <a href="https://beksoft.dk">Beksoft.dk</a> <br>
 <a href="https://lmbek.dk">Lmbek.dk</a> <br>
-
+<!--
 ## The Structure Of My Repositories
 <img alt="GitHub Structure Diagram" src="https://beksoft.dk/images/shares/howToGitHubDarkBG2.png" width="100%">
+-->
 
 ## Contributing
 Feel free to contribute to the repositories that are public
