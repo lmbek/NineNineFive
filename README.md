@@ -11,12 +11,13 @@ If you have any name suggestions for the project, please let me know by leaving 
 Software Architect from Denmark living in Grenaa. Im the CEO of Beksoft ApS a company that focuses on Software Architecture and full scale software development from requirement specification to implementation, testing, releasing and maintaining. We mostly focus on webbased technology, native technology, cross platform and cloud services.
 
 ## Specialities
-I prefer developing in Go because of it's simplicity and good scaling. It's a good general programming language, that can be used in many different domains. <br>
+I prefer developing in Go because of it's simplicity, efficiency for developing fast and good scaling. It's a wonderful general purpose programming language, that can be used in many different domains. <br>
 I have specialised in Webbased IT Systems, where i build executables with manifests, icon and code signing. I: analyse requirements, design, program/develop, test, build and deploy software for Computers, Mobiles and the Cloud. <br>
 
 ## Main Languages, Tools & Services (professional):
 * Go
-* JavaScript +(HTML&CSS)
+* JavaScript
+* HTML, CSS, XML, JSON
 * C, C++
 * MySQL & Sqlite
 * IntelliJ Ultimate
@@ -25,10 +26,10 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 
 ## Other Languages and Tools:
 * C#, Java, PHP
-* SCSS, NPM, Node
+* SCSS, Typescript, NPM, Node
 * Three.js and javascript frameworks
 * Apache & Nginx
-* Visual Code Studio
+* Visual Code
 * DigitalOcean and other VPS & Cloud providers, and docker
 
 <br>
