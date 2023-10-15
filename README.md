@@ -3,7 +3,11 @@ Welcome to my GitHub profile, you can connect with me on <a href="https://www.li
 
 ## Recent updates
 Check out my favorite open-source projects: <br>
-### Gobek (v0.7.0)
+
+### bekview (v0.0.1) - Coming soon
+<a href="https://github.com/lmbek/bekview">bekview</a>
+
+### Gobek (v0.7.0) - Will be archived from Oktober 2023
 <a href="https://github.com/lmbek/gobek">gobek</a> (open-source)<br> <a href="https://github.com/lmbek/gobek-example">gobek-example</a> (example on how to use gobek)<br> <a href="https://github.com/lmbek/gobek-sqlite-example">gobek-sqlite-example</a> (example on how to use gobek with sqlite and gcc)<br><br>Gobek is a project i have developed to allow for lightweight web applications that uses Go locally with native features. Think of it like electron - just with minimal dependencies <br>
 If you have any name suggestions for the project, please let me know by leaving an issue or sending me a message on LinkedIn. 
 
