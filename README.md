@@ -4,7 +4,7 @@ Welcome to my GitHub profile, you can connect with me on <a href="https://www.li
 ## Recent updates
 Check out my favorite open-source projects: <br>
 
-### bekview (v0.0.1) - Coming soon
+### Bekview (v0.0.1) - Coming soon
 <a href="https://github.com/lmbek/bekview">bekview</a>
 
 ### Gobek (v0.7.0) - Will be archived from Oktober 2023
