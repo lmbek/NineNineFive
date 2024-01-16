@@ -1,4 +1,4 @@
-# Lars M Bek - Software Architect
+# Lars M Bek - Software Developer
 Welcome to my GitHub profile, you can connect with me on <a href="https://www.linkedin.com/in/lmbek/" target="_blank" color="white">LinkedIn</a>, <a href="https://lmbek.dk" target="_blank">Lmbek.dk</a> or Discord (username: lmbek), if you are a programmer who want to collaborate.
 
 ## Recent updates
@@ -12,7 +12,7 @@ Check out my favorite open-source projects: <br>
 If you have any name suggestions for the project, please let me know by leaving an issue or sending me a message on LinkedIn. 
 
 ## About me
-Software Architect from Denmark living in Grenaa. Im the CEO of Beksoft ApS a company that focuses on Software Architecture and full scale software development from requirement specification to implementation, testing, releasing and maintaining. We mostly focus on webbased technology, native technology, cross platform and cloud services.
+Software Developer from Denmark living in Grenaa. Im the CEO of Beksoft ApS a company that focuses on Software Development on the full scale; from requirement specification to implementation, testing, releasing and maintaining. We mostly focus on webbased technology, native technology, cross platform and cloud services.
 
 ## Specialities
 I prefer developing in Go because of it's simplicity, efficiency for developing fast and good scaling. It's a wonderful general purpose programming language, that can be used in many different domains. <br>
