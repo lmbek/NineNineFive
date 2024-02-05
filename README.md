@@ -5,7 +5,7 @@ Welcome to my GitHub profile, you can connect with me on <a href="https://www.li
 Check out my open-source projects: <br>
 
 ### Bekrouter (v0.3.0) 
-<a href="https://github.com/lmbek/bekrouter">bekview</a>
+<a href="https://github.com/lmbek/bekrouter">bekrouter</a>
 
 ### Bekview (v0.0.1) - Coming soon
 <a href="https://github.com/lmbek/bekview">bekview</a>
