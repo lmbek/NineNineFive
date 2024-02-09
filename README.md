@@ -4,7 +4,15 @@ Welcome to my GitHub profile, you can connect with me on <a href="https://www.li
 ## Recent updates
 Check out my open-source projects: <br>
 
-### Bekrouter (v0.3.0) 
+### Kubernetes project (v0.0.1) - To be made
+A project where i mix C#, Go (with dll for c#), Angular, Docker, Kubernetes <br>
+Its a frontend service and a backend service communicating together over http, where the c# service uses a DLL (compiled from Go), where it uses Go functions and get return data<br>
+https://github.com/lmbek/kuber-project
+
+### Bekrouter (v0.7.0) - To be made
+Still working on it, right now i think i have a good generic structure, however my data conversion needs work, and i might remake the whole project for that reason. <br>
+I am putting mongodb, sqlite and mysql in it with build tags (you can run build tags such as sqlite, online, production, etc. in Go, to compile specific files over others).<br>
+The project is meant to showcase the new features in go 1.22 (and maybe to showcase a bit of my skills)
 <a href="https://github.com/lmbek/bekrouter">bekrouter</a>
 
 ### Bekview (v0.0.1) - Coming soon
