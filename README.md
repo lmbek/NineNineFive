@@ -31,7 +31,7 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 
 ## Main Languages, Tools & Services (professional):
 * Go
-* C#, Java, C, C++
+* C#, Java, C
 * JavaScript
 * HTML, CSS, XML, JSON
 * MySQL, Sqlite, MongoDB
@@ -41,6 +41,7 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 
 ## Other Languages and Tools:
 * C++, PHP (10+ years experience), Kotlin, Jquery, Bootstrap
+* SCSS, Bootstrap, Go TEMPL, HTMX
 * React, NextJS, Gorilla, Gin, Cobra, .Net Webapi, Apache, Nginx
 * SCSS, Typescript, NPM, Node
 * Three.js and javascript frameworks
