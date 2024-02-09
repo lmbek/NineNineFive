@@ -31,20 +31,19 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 
 ## Main Languages, Tools & Services (professional):
 * Go
+* C#, Java, C, C++
 * JavaScript
 * HTML, CSS, XML, JSON
-* C, C++
-* MySQL & Sqlite
-* IntelliJ Ultimate
+* MySQL, Sqlite, MongoDB
+* IntelliJ Ultimate, Rider, Goland, CLion, Visual Code, Visual Studio
 * Hetzner Cloud (linux servers)
 * GitHub Actions / GitHub Automations
 
 ## Other Languages and Tools:
-* C#, Java, PHP
+* C++, PHP (10+ years experience), Kotlin, Jquery, Bootstrap
+* React, NextJS, Gorilla, Gin, Cobra, .Net Webapi, Apache, Nginx
 * SCSS, Typescript, NPM, Node
 * Three.js and javascript frameworks
-* Apache & Nginx
-* Visual Code
 * DigitalOcean and other VPS & Cloud providers, and docker
 
 <br>
