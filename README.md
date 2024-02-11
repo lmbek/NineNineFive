@@ -9,14 +9,9 @@ Check out my open-source projects: <br>
 
 ### Gobek (v0.7.0) - Will be archived from Oktober 2023
 <a href="https://github.com/lmbek/gobek">gobek</a> (open-source)<br> <a href="https://github.com/lmbek/gobek-example">gobek-example</a> (example on how to use gobek)<br> <a href="https://github.com/lmbek/gobek-sqlite-example">gobek-sqlite-example</a> (example on how to use gobek with sqlite and gcc)<br><br>Gobek is a project i have developed to allow for lightweight web applications that uses Go locally with native features. Think of it like electron - just with minimal dependencies <br>
-If you have any name suggestions for the project, please let me know by leaving an issue or sending me a message on LinkedIn. 
 
 ## About me
 Software Developer from Denmark living in Grenaa. Im the CEO of Beksoft ApS a company that focuses on Software Development on the full scale; from requirement specification to implementation, testing, releasing and maintaining. We mostly focus on webbased technology, native technology, cross platform and cloud services.
-
-## Specialities
-I prefer developing in Go because of it's simplicity, efficiency for developing fast and good scaling. It's a wonderful general purpose programming language, that can be used in many different domains. <br>
-I have specialised in Webbased IT Systems, where i build executables with manifests, icon and code signing. I: analyse requirements, design, program/develop, test, build and deploy software for Computers, Mobiles and the Cloud. <br>
 
 ## Main Languages, Tools & Services (professional):
 * Go
@@ -29,12 +24,13 @@ I have specialised in Webbased IT Systems, where i build executables with manife
 * GitHub Actions / GitHub Automations
 
 ## Other Languages and Tools:
-* C++, PHP (10+ years experience), Kotlin, Jquery, Bootstrap
+* C++, PHP, Kotlin, Jquery, Bootstrap
 * SCSS, Bootstrap, Go TEMPL, HTMX
 * React, NextJS, Gorilla, Gin, Cobra, .Net Webapi, Apache, Nginx
 * SCSS, Typescript, NPM, Node
 * Three.js and javascript frameworks
-* DigitalOcean and other VPS & Cloud providers, and docker
+* DigitalOcean and other VPS & Cloud providers
+* Docker
 
 <br>
 
