@@ -48,6 +48,26 @@ Software Developer from Denmark living in Grenaa. Im the CEO of Beksoft ApS a co
 
 <br>
 
+## GitHub stats
+
+<p align="center">
+  <!--<a href="https://github.com/lmbek">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmbek&theme=transparent" />
+  </a>
+  <a href="https://github.com/lmbek">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmbek&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/lmbek">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lmbek&theme=transparent" />
+  </a>-->
+  <a href="https://github.com/lmbek">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmbek&langs_count=10&exclude_repo=WebIT-Uddannelse,2d-pingpong-with-gobek-and-three-js,js-qr-reader,trying-out-htmx,webit-es6-boilerplate,webit-json-exercise,ChessVR,ThiefGame,summer-start-2023&hide=c,makefile,html,css,sass,nix,nunjucks,tsql,dockerfile,shell&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+  <br/>
+</p>
+
+
+
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nineninefive&count_private=true&theme=dracula&showicons=true)]()
 -->
