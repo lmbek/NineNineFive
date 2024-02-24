@@ -58,9 +58,9 @@ Software Developer from Denmark living in Grenaa. Im the CEO of Beksoft ApS a co
   <a href="https://github.com/lmbek">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lmbek&theme=transparent" />
   </a>-->
-  <a href="https://github.com/lmbek">
+  <!--<a href="https://github.com/lmbek">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmbek&langs_count=15&exclude_repo=LMBekWebsite,bekrouter,webit-portfolio2,discord-autorole,go-online-chat,html-seo-baker,gobek-example,birthday-project,AudioRecorder,go-html-templating-training,go-embed-web,application-handler,native-go-scripts,2d-pingpong-with-gobek-and-three-js,js-qr-reader,ChessVR,ThiefGame&hide=cmake,makefile&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  </a>-->
   <br/>
 </p>
 
