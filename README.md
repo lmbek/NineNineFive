@@ -1,15 +1,6 @@
 # Lars M Bek - Software Developer
 Welcome to my GitHub profile, you can connect with me on <a href="https://www.linkedin.com/in/lmbek/" target="_blank" color="white">LinkedIn</a>, <a href="https://lmbek.dk" target="_blank">Lmbek.dk</a> or Discord (username: lmbek), if you are a programmer who want to collaborate.
 
-## Recent updates
-Check out my open-source projects: <br>
-
-### Bekview (v0.0.1) - Coming soon
-<a href="https://github.com/lmbek/bekview">bekview</a>
-
-### Gobek (v0.7.0) - Will be archived from Oktober 2023
-<a href="https://github.com/lmbek/gobek">gobek</a> (open-source)<br> <a href="https://github.com/lmbek/gobek-example">gobek-example</a> (example on how to use gobek)<br> <a href="https://github.com/lmbek/gobek-sqlite-example">gobek-sqlite-example</a> (example on how to use gobek with sqlite and gcc)<br><br>Gobek is a project i have developed to allow for lightweight web applications that uses Go locally with native features. Think of it like electron - just with minimal dependencies <br>
-
 ## About me
 Software Developer from Denmark living in Grenaa. Im the CEO of Beksoft ApS a company that focuses on Software Development on the full scale; from requirement specification to implementation, testing, releasing and maintaining. We mostly focus on webbased technology, native technology, cross platform and cloud services.
 
