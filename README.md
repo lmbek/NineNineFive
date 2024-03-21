@@ -5,17 +5,15 @@ Welcome to my GitHub profile, you can connect with me on <a href="https://www.li
 Software Developer from Denmark living in Grenaa. Im the CEO of Beksoft ApS a company that focuses on Software Development on the full scale; from requirement specification to implementation, testing, releasing and maintaining. We mostly focus on webbased technology, native technology, cross platform and cloud services.
 
 ## Main Languages, Tools & Services (professional):
-* Go
-* C#, Java, C
-* JavaScript
-* HTML, CSS, XML, JSON
+* Go, C#, Java, JavaScript
+* HTML, GOHTML, CSS, XML, JSON, CSV
 * MySQL, Sqlite, MongoDB
 * IntelliJ Ultimate, Rider, Goland, CLion, Visual Code, Visual Studio
 * Hetzner Cloud (linux servers)
 * GitHub Actions / GitHub Automations
 
 ## Other Languages and Tools:
-* C++, PHP, Kotlin, Jquery, Bootstrap
+* PHP, C, C++, Kotlin, Jquery, Bootstrap
 * SCSS, Bootstrap, Go TEMPL, HTMX
 * React, NextJS, Gorilla, Gin, Cobra, .Net Webapi, Apache, Nginx
 * SCSS, Typescript, NPM, Node
