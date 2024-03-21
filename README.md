@@ -5,21 +5,23 @@ Welcome to my GitHub profile, you can connect with me on <a href="https://www.li
 Software Developer from Denmark living in Grenaa. Im the CEO of Beksoft ApS a company that focuses on Software Development on the full scale; from requirement specification to implementation, testing, releasing and maintaining. We mostly focus on webbased technology, native technology, cross platform and cloud services.
 
 ## Main Languages, Tools & Services (professional):
-* Go, C#, Java, JavaScript
-* HTML, GOHTML, CSS, XML, JSON, CSV
-* MySQL, Sqlite, MongoDB
-* IntelliJ Ultimate, Rider, Goland, CLion, Visual Code, Visual Studio
-* Hetzner Cloud (linux servers)
-* GitHub Actions / GitHub Automations
+* Serverside: Go, C#, Java, JavaScript
+* Markup, data & more: HTML, GOHTML, CSS, XML, JSON, CSV
+* Databases: MySQL, Sqlite, MongoDB, Config files
+* Coding IDE: IntelliJ Ultimate, Rider, Goland, CLion, Visual Code, Visual Studio
+* Servers: Hetzner Cloud and VPS (linux servers)
+* Automations: Bash, Shell, GitHub Actions / GitHub Automations, Docker, Circleci
 
 ## Other Languages and Tools:
-* PHP, C, C++, Kotlin, Jquery, Bootstrap
-* SCSS, Bootstrap, Go TEMPL, HTMX
-* React, NextJS, Gorilla, Gin, Cobra, .Net Webapi, Apache, Nginx
-* SCSS, Typescript, NPM, Node
-* Three.js and javascript frameworks
-* DigitalOcean and other VPS & Cloud providers
-* Docker
+* Serverside: PHP, C, C++, Kotlin
+* API and webservers: Gorilla, Gin, Cobra, Echo, .NET WEBAPI, Go stdlib, Apache, Nginx
+* Styling: Tailwind, SCSS, Bootstrap, Jquery 
+* Clientside: HTMX, Go TEMPL, React, NextJS  
+* Other frameworks, tools & more: Three.js Typescript, NPM/NodeJS, and many more javascript things
+* Servers: DigitalOcean VPS, Google cloud, Azure cloud 
+* Deployment: systemd (services), Docker, Kubernetes
+
+I am very experienced in every area of computers, even in video editing with or without code, image manipulation with photoshop, 3d tools like blender. So i can generally do most technical challenges.
 
 <br>
 
