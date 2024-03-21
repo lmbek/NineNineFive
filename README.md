@@ -4,6 +4,8 @@ Welcome to my GitHub profile, you can connect with me on <a href="https://www.li
 ## About me
 Software Developer from Denmark living in Grenaa. Im the CEO of Beksoft ApS a company that focuses on Software Development on the full scale; from requirement specification to implementation, testing, releasing and maintaining. We mostly focus on webbased technology, native technology, cross platform and cloud services.
 
+I am a very biased Gopher that will preach about the programming language Go. My love for Go is huge!
+
 ## Main Languages, Tools & Services (professional):
 * Serverside: Go, C#, Java, JavaScript
 * Markup, data & more: HTML, GOHTML, CSS, XML, JSON, CSV
