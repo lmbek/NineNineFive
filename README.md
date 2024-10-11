@@ -1,3 +1,6 @@
+<div><a href="https://www.linkedin.com/in/lmbek/"><img style="width: 100%; display: block;" src="https://media.licdn.com/dms/image/v2/D4D16AQFYFUsbBxTuoA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728606632834?e=1733961600&v=beta&t=OcxeTlpYO07Gk1xhbzzpRYjTf5HIjmw2U2TxcwZvIvY" alt="Lars M Bek Professions" /></a></div>
+Connect with me on linkedin and feel free to leave me a message
+
 # Lars M Bek - Software Developer
 Welcome to my GitHub profile, you can connect with me on <a href="https://www.linkedin.com/in/lmbek/" target="_blank" color="white">LinkedIn</a>, <a href="https://lmbek.dk" target="_blank">Lmbek.dk</a> or Discord (username: lmbek), if you are a programmer who want to collaborate.
 
