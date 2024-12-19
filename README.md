@@ -6,9 +6,6 @@ Connect with me on linkedin and feel free to leave me a message
 # Lars M Bek - Software Developer
 Welcome to my GitHub profile, you can connect with me on <a href="https://www.linkedin.com/in/lmbek/" target="_blank" color="white">LinkedIn</a>, <a href="https://lmbek.dk" target="_blank">Lmbek.dk</a> or Discord (username: lmbek), if you are a programmer who want to collaborate.
 
-## About me
-Software Developer from Middle Jutland, Denmark. Im the CEO of Beksoft ApS a company that focuses on Software Development on the full scale; from requirement specification to implementation, testing, releasing and maintaining. We mostly focus on webbased technology, native technology, cross platform and cloud services. I've been developing IT Systems my whole life, don't underestimate my knowledge and growth.
-
 ## Main Languages, Tools & Services (professional):
 * Serverside: Go, C#, Java, JavaScript
 * Markup, data & more: HTML, GOHTML, CSS, XML, JSON, CSV
@@ -27,9 +24,6 @@ Software Developer from Middle Jutland, Denmark. Im the CEO of Beksoft ApS a com
 * Other frameworks, tools & more: Three.js Typescript, NPM/NodeJS, and many more javascript things
 * Servers: DigitalOcean VPS, Google cloud, Azure cloud 
 * Deployment: systemd (services), Docker, Kubernetes
-
-I am very experienced in every area of computers, even in video editing with or without code, image manipulation with photoshop, 3d tools like blender. So i can generally do most technical challenges, but my programming is my specialty.<br>
-I dont claim to be some super talent, i always describe myself around the 28th percentile regarding most things in life. I only focus on being better than average. I know i will always only at best be considered average.
 
 <br>
 
