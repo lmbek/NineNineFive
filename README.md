@@ -7,22 +7,22 @@ Connect with me on linkedin and feel free to leave me a message
 Welcome to my GitHub profile, you can connect with me on <a href="https://www.linkedin.com/in/lmbek/" target="_blank" color="white">LinkedIn</a>, <a href="https://lmbek.dk" target="_blank">Lmbek.dk</a> or Discord (username: lmbek), if you are a programmer who want to collaborate.
 
 ## Main Languages, Tools & Services (professional):
-* Serverside: Go, C#, Java, JavaScript
+* Serverside: Go, PHP, C#, Java, JavaScript
 * Markup, data & more: HTML, GOHTML, CSS, XML, JSON, CSV
-* Databases: MySQL, Sqlite, MongoDB, Postgres, Filesystem
-* Coding IDE: Goland, IntelliJ Ultimate, Rider, CLion, Visual Code, Visual Studio
-* Servers: Ubuntu, CentOS, Hetzner Cloud and VPS (linux servers), Digital Ocean, AWS
-* Containerization: Docker, Kubernetes, Snapshots
-* Automations: GitHub Actions / GitHub Automations, Docker, Circleci
+* Databases: MySQL, Sqlite, MongoDB
+* Coding IDE: Goland, IntelliJ Ultimate, Rider, CLion, Visual Code
+* Servers: Ubuntu, Hetzner Cloud (linux servers)
+* Containerization: Docker, Kubernetes
+* Automations: Custommade go services to automate work env, GitHub Actions, makefile, docker-compose
 * Terminals: Terminal, CMD
 
 ## Other Languages and Tools:
-* Serverside: PHP, C, C++, Kotlin
+* Serverside: Python, C, C++,
 * API and webservers: Gorilla, Gin, Cobra, Echo, .NET WEBAPI, Go stdlib, Apache, Nginx
 * Styling: Tailwind, SCSS, Bootstrap, Jquery 
 * Clientside: HTMX, Go TEMPL, React, NextJS  
-* Other frameworks, tools & more: Three.js Typescript, NPM/NodeJS, and many more javascript things
-* Servers: DigitalOcean VPS, Google cloud, Azure cloud 
+* Other frameworks, tools & more: Three.js, Typescript, NPM/NodeJS and a couple of javascript libs
+* Servers: DigitalOcean VPS, Google cloud, Azure cloud, AWS
 * Deployment: systemd (services), Docker, Kubernetes
 
 <br>
@@ -64,7 +64,6 @@ Welcome to my GitHub profile, you can connect with me on <a href="https://www.li
 -->
 ## Social Networks
 <a href="https://www.linkedin.com/in/lmbek/" color="white">LinkedIn (Lars M Bek)</a> <br>
-<a href="https://discord.gg/6HJk5bsnY8">Discord (Beksoft)</a> <br>
 
 ## Websites
 <a href="https://beksoft.dk">Beksoft.dk</a> <br>
