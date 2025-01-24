@@ -7,22 +7,20 @@ Connect with me on linkedin and feel free to leave me a message
 Welcome to my GitHub profile, you can connect with me on <a href="https://www.linkedin.com/in/lmbek/" target="_blank" color="white">LinkedIn</a>, <a href="https://lmbek.dk" target="_blank">Lmbek.dk</a> or Discord (username: lmbek), if you are a programmer who want to collaborate.
 
 ## Main Languages, Tools & Services (professional):
-* Serverside: Go, PHP, C#, Java, JavaScript
-* Markup, data & more: HTML, GOHTML, CSS, XML, JSON, CSV
+* Serverside: Go, PHP, C#, Java, Apache, Nginx
+* Go frameworks: Echo, Gin, Cobra
+* Go libraries: Gorilla, Excelize, fpdf, webview_go, GORM, go-swagger, prometheus
+* PHP frameworks: Laravel
+* PHP libraries: PHPSpreadsheet
+* C# frameworks: .NET, Unity
+* C# libraries: Newtonsoft.Json, NHibernate, NUnit
+* Frontend: HTML, GOHTML, CSS, JavaScript, Typescript, JSON, XML, CSV, JAVAFX
+* Frontend frameworks, libs and other: Esbuild, React, Three.js, Tailwind, Bootstrap, Go TEMPL, HTMX 
 * Databases: MySQL, Sqlite, MongoDB
 * Coding IDE: Goland, IntelliJ Ultimate, Rider, CLion, Visual Code
-* Servers: Ubuntu, Hetzner Cloud (linux servers)
+* Servers: Ubuntu, CentOS, Hetzner Cloud (VPS linux servers), Azure, Google Cloud Platform, Digital Ocean, AWS
 * Containerization: Docker, Kubernetes
-* Automations: Custommade go services to automate work env, GitHub Actions, makefile, docker-compose
-* Terminals: Terminal, CMD
-
-## Other Languages and Tools:
-* Serverside: Python, C, C++,
-* API and webservers: Gorilla, Gin, Cobra, Echo, .NET WEBAPI, Go stdlib, Apache, Nginx
-* Styling: Tailwind, SCSS, Bootstrap, Jquery 
-* Clientside: HTMX, Go TEMPL, React, NextJS  
-* Other frameworks, tools & more: Three.js, Typescript, NPM/NodeJS and a couple of javascript libs
-* Servers: DigitalOcean VPS, Google cloud, Azure cloud, AWS
+* Automations: Makefile, Dockerfile, docker-compose, github actions
 * Deployment: systemd (services), Docker, Kubernetes
 
 <br>
